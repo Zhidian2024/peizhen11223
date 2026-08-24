@@ -12,7 +12,7 @@
 
  用户端 + 师傅端 + 管理端
 
- # 软件截图
+ # 软件截图-
 
 ![01](https://github.com/user-attachments/assets/3146c0f5-ea8c-4a19-8375-faa20a2be197)
 ![02](https://github.com/user-attachments/assets/55cece04-69ea-4bd0-987c-1e41fd80b445)
